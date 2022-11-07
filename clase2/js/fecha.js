@@ -29,6 +29,15 @@ else if( diaSemana == 2 ){
 else if ( diaSemana == 3 ){
     diaSemana = 'Miércoles';
 }
+else if ( diaSemana == 4 ){
+    diaSemana = 'Jueves';
+}
+else if ( diaSemana == 5 ){
+    diaSemana = 'Viernes';
+}
+else {
+    diaSemana = 'Sábado';
+}
 
 
 //obtenemos el número del día del mes
