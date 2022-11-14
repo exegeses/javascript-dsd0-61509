@@ -26,7 +26,8 @@ function reloj()
     }
 
     //imprimimos dentro del span
-    txt.innerText = horas +':'+ minutos +':'+ segundos;
+    //txt.innerText = horas +':'+ minutos +':'+ segundos;
+    txt.innerText = `${horas} : ${minutos} : ${segundos}`;
 }
 
 //invocamos función reloj
