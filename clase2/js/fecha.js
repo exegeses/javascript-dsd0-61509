@@ -56,4 +56,4 @@ let mes = fecha.getMonth() + 1;
 let anio = fecha.getFullYear();
 
 //imprimimos dentro del span
-txt.innerText = diaMes +'/'+ mes +'/'+ anio;
+txt.innerText = 'Hoy es: '+ diaMes +'/'+ mes +'/'+ anio;
