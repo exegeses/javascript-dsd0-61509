@@ -1,0 +1,8 @@
+body{
+    width: 500px;
+    margin: 200px auto;
+}
+#pulpo{
+    position: relative;
+    /*left: 25px;*/
+}
